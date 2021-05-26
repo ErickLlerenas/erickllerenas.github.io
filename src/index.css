@@ -1,13 +1,192 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body,
+html {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display: block;
+  color: #555
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.center {
+  text-align: center !important;
+}
+
+.title{
+  text-align: center !important;
+}
+.subtitle{
+  text-align: center !important;
+  color: #AAA;
+}
+
+
+.appbar-title{
+  color:#14A2B8;
+  flex-grow: 1;
+}
+
+.logo{
+  display: block !important;
+  width: 125px !important;
+  height: 0 auto !important;
+  margin: 80px auto 20px !important;
+  color: white;
+}
+.appbar{
+  background-color: white !important;
+  box-shadow: none !important;
+  flex-grow: 1;
+}
+.typewriter{
+  width: 15.5ch !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+  font-size: 4em !important;
+  font-weight: 300;
+  text-align: left;
+ 
+}
+
+.name{
+  font-size: 1em;
+  color: #333
+}
+.Typewriter__cursor{
+  color:#14A2B8 !important;
+}
+.main{
+  background-color: aqua !important;
+}
+.proyect-icons{
+  width: 100% !important;
+  height: auto;
+  border-radius: 25px;
+}
+
+
+.erick{
+  height: 90vh;
+  display: block;
+
+}
+.header{
+  height: 100vh !important;
+  width: 100vw !important;
+  background-color: white;
+  display: flex;
+}
+.portfolio{
+  background-color: #eee;
+  display: flex;
+  position: relative;
+}
+
+#xp{
+  font-size: 10em !important;
+  color:#0F7080;
+  font-weight: bold;
+}
+
+#years{
+  font-size: 2em !important;
+  font-weight: bold;
+}
+.circle{
+  width:  100vh;
+  height: 100vh;
+  border-radius: 100%;
+  position: absolute;
+  background-color: #4e9faf;
+  bottom: -150px;
+  z-index: 0;
+  right: 0;
+}
+
+.sized-box{
+  height: 150px !important;
+}
+
+.avatar{
+  width: 150px !important;
+  height: 150px !important;
+  display: block !important;
+}
+.right{
+  float: right;
+}
+
+
+.MuiTypography-body1{
+  font-size: 1.25em !important;
+}
+
+@media (max-width: 767.98px) {
+  .typewriter{
+   font-size: 2em !important;
+   width: 16ch !important;
+
+  }
+  .erick{
+    width: 100% !important;
+    height: auto !important;
+    display: block;
+  
+  }
+  .circle{
+    width: 100vw;
+    height: 100vw;
+    border-radius: 100%;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    z-index: 0;
+  }
+
+  .appbar{
+    display: none !important;
+  }
+  .avatar{
+    width: 100px !important;
+    height: 100px !important;
+  }
+
+  #xp{
+    font-size: 3em !important;
+    color:#0F7080;
+    font-weight: bold;
+  }
+  
+  #years{
+    font-size: 1em !important;
+    font-weight: bold;
+  }
+
+  .typewriter{
+    text-align: center !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+  .header{
+    text-align: center;
+  }
+
+  .hireme{
+    display: block !important;
+    margin: 0 auto !important;
+  }
+  
+  .grid-name{
+    width: 100%;
+    text-align: center;
+  }
+  .title{
+    text-align: center !important;
+    font-size: 2.5em !important;
+  }
+  .subtitle{
+    text-align: center !important;
+    color: #AAA;
+    font-size: 1.5em !important;
+
+  }
+  
 }

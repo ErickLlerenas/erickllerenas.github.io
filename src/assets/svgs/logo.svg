@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="910" height="700" viewBox="0 0 910 700">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="910" height="700"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(-87 -190)">
+      <g id="Left" transform="translate(3.878 -0.246)">
+        <line id="Línea_1" data-name="Línea 1" y2="300" transform="translate(316.254 328.246) rotate(45)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40" stroke-dasharray="80 0"/>
+        <line id="Línea_2" data-name="Línea 2" y1="300" transform="translate(316.254 752.378) rotate(135)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40" stroke-dasharray="80 0"/>
+        <line id="Línea_3" data-name="Línea 3" y1="250" transform="translate(354.254 716.378) rotate(135)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40" stroke-dasharray="80 0"/>
+        <line id="Línea_4" data-name="Línea 4" y2="250" transform="translate(354.254 363.601) rotate(45)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40" stroke-dasharray="80 0"/>
+        <line id="Línea_5" data-name="Línea 5" x2="38" y2="35" transform="translate(316.5 328.5)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40" stroke-dasharray="80 0"/>
+        <line id="Línea_6" data-name="Línea 6" x1="38" y2="35" transform="translate(316.5 716.5)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40" stroke-dasharray="80 0"/>
+      </g>
+      <g id="Right" transform="translate(725 328)">
+        <line id="Línea_1-2" data-name="Línea 1" y1="300" transform="translate(250.378 212.132) rotate(135)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_2-2" data-name="Línea 2" y2="300" transform="translate(250.378 212) rotate(45)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_3-2" data-name="Línea 3" y2="250" transform="translate(177.023 211.355) rotate(45)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_4-2" data-name="Línea 4" y1="250" transform="translate(177.023 212.132) rotate(135)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_5-2" data-name="Línea 5" x1="38" y2="35" transform="translate(0 0.254)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_6-2" data-name="Línea 6" x2="38" y2="35" transform="translate(0 388.254)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+      </g>
+      <g id="Middle">
+        <line id="Línea_7" data-name="Línea 7" x1="216" y2="648" transform="translate(404 216)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_8" data-name="Línea 8" x1="199" y2="597" transform="translate(477 216)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_9" data-name="Línea 9" x1="56" transform="translate(620 216)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_10" data-name="Línea 10" x1="275" transform="translate(404 864)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_11" data-name="Línea 11" x1="200" transform="translate(477 813)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+        <line id="Línea_12" data-name="Línea 12" x2="1" y2="45" transform="translate(678.5 814.5)" fill="none" stroke="#212121" stroke-linecap="round" stroke-width="40"/>
+      </g>
+    </g>
+  </g>
+</svg>
