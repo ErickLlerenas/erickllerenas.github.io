@@ -1,33 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d867819.chunk.css",
-    "main.js": "/static/js/main.244134ab.chunk.js",
-    "main.js.map": "/static/js/main.244134ab.chunk.js.map",
+    "main.css": "/static/css/main.f715c60d.chunk.css",
+    "main.js": "/static/js/main.f29458c2.chunk.js",
+    "main.js.map": "/static/js/main.f29458c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0c0c6b1d.js",
     "runtime-main.js.map": "/static/js/runtime-main.0c0c6b1d.js.map",
-    "static/js/2.67e569cb.chunk.js": "/static/js/2.67e569cb.chunk.js",
-    "static/js/2.67e569cb.chunk.js.map": "/static/js/2.67e569cb.chunk.js.map",
+    "static/js/2.2b96cdf9.chunk.js": "/static/js/2.2b96cdf9.chunk.js",
+    "static/js/2.2b96cdf9.chunk.js.map": "/static/js/2.2b96cdf9.chunk.js.map",
     "static/js/3.cc79628b.chunk.js": "/static/js/3.cc79628b.chunk.js",
     "static/js/3.cc79628b.chunk.js.map": "/static/js/3.cc79628b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2d867819.chunk.css.map": "/static/css/main.2d867819.chunk.css.map",
-    "static/js/2.67e569cb.chunk.js.LICENSE.txt": "/static/js/2.67e569cb.chunk.js.LICENSE.txt",
+    "static/css/main.f715c60d.chunk.css.map": "/static/css/main.f715c60d.chunk.css.map",
+    "static/js/2.2b96cdf9.chunk.js.LICENSE.txt": "/static/js/2.2b96cdf9.chunk.js.LICENSE.txt",
     "static/media/adriana_icon.61a69eb3.png": "/static/media/adriana_icon.61a69eb3.png",
     "static/media/amazon_icon.cf7d21e8.png": "/static/media/amazon_icon.cf7d21e8.png",
     "static/media/antonio_andrade.e5a51486.jpeg": "/static/media/antonio_andrade.e5a51486.jpeg",
     "static/media/camaron-pelao.eeb48142.png": "/static/media/camaron-pelao.eeb48142.png",
     "static/media/conchi.cf877024.jpeg": "/static/media/conchi.cf877024.jpeg",
     "static/media/eduardo.f0ee181f.jpeg": "/static/media/eduardo.f0ee181f.jpeg",
+    "static/media/github.a1918213.svg": "/static/media/github.a1918213.svg",
+    "static/media/instagram.dc143699.svg": "/static/media/instagram.dc143699.svg",
+    "static/media/linkedin.e52e0c01.svg": "/static/media/linkedin.e52e0c01.svg",
     "static/media/me.6cbd1f0b.png": "/static/media/me.6cbd1f0b.png",
     "static/media/memo_icon.02d76a9d.jpeg": "/static/media/memo_icon.02d76a9d.jpeg",
     "static/media/memo_toscano.b0f8ba83.jpeg": "/static/media/memo_toscano.b0f8ba83.jpeg",
     "static/media/mercado_icon.4475c065.png": "/static/media/mercado_icon.4475c065.png",
-    "static/media/tu-chofer.9123265d.png": "/static/media/tu-chofer.9123265d.png"
+    "static/media/tu-chofer.9123265d.png": "/static/media/tu-chofer.9123265d.png",
+    "static/media/whatsapp.1f5990cb.svg": "/static/media/whatsapp.1f5990cb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0c0c6b1d.js",
-    "static/js/2.67e569cb.chunk.js",
-    "static/css/main.2d867819.chunk.css",
-    "static/js/main.244134ab.chunk.js"
+    "static/js/2.2b96cdf9.chunk.js",
+    "static/css/main.f715c60d.chunk.css",
+    "static/js/main.f29458c2.chunk.js"
   ]
 }
