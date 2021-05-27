@@ -44,14 +44,15 @@ export default function Header() {
               <Typography>Spanish and english spoken.</Typography>
             </Grid>
             <Grid item className="hireme">
-              <Button variant="contained" color="primary">
-                Hire Me
-              </Button>
-             
+              <a href="mailto:dev.llerenas@gmail.com?Subject=Hi, nice to meet you! I'm interested on working with you...">
+                <Button variant="contained" color="primary">
+                  Hire Me
+                </Button>
+              </a>
             </Grid>
             <Grid item>
-                <SizedBox />
-              </Grid>
+              <SizedBox />
+            </Grid>
           </Grid>
 
           <Grid
